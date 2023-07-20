@@ -1,16 +1,3 @@
-# flutter_application_001
+# Company API
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src=[https://github.com/thedemonKingx1337/quizApp2.0/assets/43701328/50be4b52-f00f-4560-8b64-a0fe7763b252](https://github.com/thedemonKingx1337/flutter_application_001-v1/assets/43701328/645e00e6-5a04-4fea-8951-8e26495e9aa6)https://github.com/thedemonKingx1337/flutter_application_001-v1/assets/43701328/645e00e6-5a04-4fea-8951-8e26495e9aa6 width="300" height="600"/>
